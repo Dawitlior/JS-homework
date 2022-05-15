@@ -192,6 +192,9 @@
 // }
 // sum()
 
+
+
+
 // function modolo(){
 //     var first = +prompt("Type number")
 //     var second = +prompt("Type number")
@@ -208,6 +211,8 @@
 // number()
 
 
+
+
 // function rad(){
 //     var radius = 1
 //     var scope = 2*3.14*radius
@@ -215,6 +220,11 @@
 //     console.log(area,scope)
 // }
 // rad()
+
+
+
+
+
 
 
 
