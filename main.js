@@ -14,6 +14,7 @@
 
 // function max(num1,num2){
 
+
 //     var num1 = +prompt("print a number")
 //     var num2 = +prompt("print a number")
     
