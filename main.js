@@ -1,4 +1,4 @@
-// הדפסת הללו וורלד 5 פעמים לקונסול
+// הדפסת הלו וורלד 5 פעמים לקונסול
 
 // function hello(){
 // console.log("hello world")
@@ -64,11 +64,17 @@
 // }
 // israel()
 
+
+
+
+
 // function liorDawit(){
-    
-//     console.log("lior dawit")
+// var name = "lior dawit"
+//     console.log(name)
 // }
 // liorDawit()
+
+
 
 
 
@@ -79,12 +85,18 @@
 
 
 
+
+
 // function numbers(){
 // for(i=0;i<5;i++){
 //     console.log(1)
 // }
 // }
 // numbers()
+
+
+
+
 
 // function numbers(){
 // var num1 = 1
@@ -100,6 +112,9 @@
 
 
 
+
+
+
 // function area(){
 
 //     var hight = 8
@@ -110,15 +125,23 @@
 
 
 
+
+
+
+
 // function vars (){
 //     var num1 = 4
 //     var num2 = 8
 //     console.log(num1,num2)
+
 //     var helpme = num2
 //     var num2 = num1
 //     console.log(helpme,num1)
 // }
 // vars()
+
+
+
 
 
 
@@ -131,6 +154,8 @@
 
 
 
+
+
 // function ans(){
 //     var user = prompt("Did you over 18?")
 //     console.log(user)
@@ -138,16 +163,22 @@
 // ans()
 
 
+
+
+
 // function whatYourAge(){
 //     var age = +prompt("How older you?")
 //     if(age<18){
-//         document.write("Hello Motherfucker")
+//         document.write("Hello")
 //     }
 //     else if(age>18){
-//         document.write("goodbay sucker")
+//         document.write("goodbay")
 //     }
 // }
 // whatYourAge()
+
+
+
 
 
 
@@ -159,6 +190,10 @@
 // nums()
 
 
+
+
+
+
 // function vars(){
 //     var a1 = ("a")
 //     var a2 = (1)
@@ -166,12 +201,20 @@
 // }
 // vars()
 
+
+
+
+
 // function bool(){
 //     var a = 2
 //     var b = 4
 //     console.log(a<b)
 // }
 // bool()
+
+
+
+
 
 // function whoIsBigger(){
 //     var a = 5
@@ -182,6 +225,9 @@
 //     console.log(a>b,b>a)
 // }
 // whoIsBigger()
+
+
+
 
 
 // function sum(){
@@ -196,6 +242,8 @@
 
 
 
+
+
 // function modolo(){
 //     var first = +prompt("Type number")
 //     var second = +prompt("Type number")
@@ -204,12 +252,21 @@
 // }
 // modolo()
 
+
+
+
+
+
+
+
 // function number(){
 //     var num = +prompt("Type number")
 //     num++
 //     console.log(num)
 // }
 // number()
+
+
 
 
 
