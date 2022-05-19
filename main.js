@@ -182,6 +182,7 @@
 
 
 
+
 // function nums(){
 //     var num1 = +prompt("Type a number")
 //     var num2 = +prompt("Type a number")
@@ -269,8 +270,12 @@
 
 
 
-
-
+// 
+// 
+// 
+// 
+// 
+// 
 // function rad(){
 //     var radius = 1
 //     var scope = 2*3.14*radius
@@ -278,6 +283,18 @@
 //     console.log(area,scope)
 // }
 // rad()
+
+
+// var player1 = prompt("what your name");
+// var age1 = +prompt("what your age");
+// var player2 = prompt("what your name");
+// var age2 = +prompt("what your age");
+// var player3 = prompt("what your name");
+// var age3 = +prompt("what your age");
+// var ages = age1+age2+age3;
+
+// console.log(player1,player2,player3,ages);
+    
 
 
 
